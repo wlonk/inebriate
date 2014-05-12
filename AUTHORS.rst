@@ -2,6 +2,11 @@
 Credits
 =======
 
+Inspiration
+-----------
+
+* Piper Merriam <aaronmerriam@gmail.com>
+
 Development Lead
 ----------------
 
